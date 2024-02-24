@@ -5,3 +5,4 @@
 - Managing properties of the materials database.
 - Recording discriptions of your screenshots.
 - Inheriting exising properties, i.e. screenshots and discriptions, from previous materials databases.
+- Intuitive user interface (Currently in Chinese).
